@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
+
+.RollDice {
+    min-width: 25rem;
+}
+
+.RollDice-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.roll-btn {
+    background: #6FCCEE;
+    border: 0.125rem solid #E84699;
+    display: block;
+    font-family: 'Audiowide', cursive;
+    font-size: 1.5rem;
+    margin: 0 auto;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    padding: 1rem 2rem;
+}

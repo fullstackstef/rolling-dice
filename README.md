@@ -1,6 +1,6 @@
 ## Demo
 
-![]('rolling_dice.gif)
+![](rolling_dice.gif)
 
 ## Available Scripts
 
